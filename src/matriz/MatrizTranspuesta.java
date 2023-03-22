@@ -1,3 +1,8 @@
+/********************************
+*Autor: Hernández Reyes Leticia *
+*Fecha de creación: 21/03/23    *
+*Fecha de modificación: 22/03/23*
+*********************************/
 package matriz;
 
 import java.util.Scanner;
